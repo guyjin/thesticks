@@ -1,3 +1,5 @@
+---
+---
 #The Sticks
 
 So, the thing you need to understand about all of this is that this never started out to be a thing.  Really.  Honest.  Would I lie to you?
@@ -12,7 +14,7 @@ The Sticks is small dirt road on the other side of a mountain pass from the town
 
 The pass is a dirt road as well, and subject to closure at the whim of the weather, which makes for a great winter snow day or Christmas story.
 
-The Sticks itself is a small country lane, just off the main road from the pass where it finally levels out after leaving the mountains.  On one side of it is an empty meadow.  During the summer it's full of sunflowers, bumblebees and wildflowers.  In the winter the snow drifts in it , building up tiny mountain ranges that shift from day to day.  
+The Sticks itself is a small country lane, just off the main road from the pass where it finally levels out after leaving the mountains.  On one side of it is an empty meadow.  During the summer it's full of sunflowers, bumblebees and wildflowers.  In the winter the snow drifts in it , building up tiny mountain ranges that shift from day to day.
 
 The lane begins to bend to the right after about 2/3's of a mile, where the curve begins the woods come down to meet the meadow.  It's a beautiful, sunny forest, just perfect for adventures.
 
@@ -31,7 +33,7 @@ Behind the house is a worn trail that runs out of the backyard and up towards a 
 
 ##Time
 
-The Sticks exists without a fixed time frame.  Some stories happen in the past, some in the future, but sometime within the current decade.  It really doesn't matter.  Let's call it TimeX.  
+The Sticks exists without a fixed time frame.  Some stories happen in the past, some in the future, but sometime within the current decade.  It really doesn't matter.  Let's call it TimeX.
 
 ##Who's who
 
