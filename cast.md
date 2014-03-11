@@ -12,4 +12,16 @@ With the valiant Captain either gone or, *ahem*, Gone, Milicent has been left to
 
 Milicent drives a very old [pickup truck](images/milicents_truck.jpg "Milicent's old truck").  Surprisingly it still runs relatively well, dispite its age.  The very loud and very frequent backfiring don't seem to slow Milicent down much.
 
-Milicent lives in her house with her dog Severus.
+Milicent lives with her dog Severus.
+
+## Severus the Three Legged Dog
+
+Severus is an old hound dog with three legs.  Severus didn't lose his leg.  He gave it away to Dauchsund that only had two legs.  Severus figured he could get along without it.  Obviously, Severus is a relatively unique dog.
+
+While Severus spends most of his time with Milicent, he does have a lady friend that he shares a dog house with. Her name is Penolope  The dog house is halfway between Milicent's house and the house of Penolope's owner.
+
+## Leonard Beauchamp
+
+Leonard is a very large man.  Don't think fat.  Think LARGE.  Leonard is at least seven feet tall, sometimes appearing even larger depending on the circumstances.  He works as a sheep farmer in the low hills just past the end of the road.
+
+Leonard has a large laugh, a ready smile and a strong back paired with a sharp wit.  He wears demin bib overalls and works most days with Penolope on the farm.
