@@ -3,7 +3,7 @@ layout: content
 title: Cast
 ---
 
-The Sticks has a small number of characters.  It' easier to to tell the stories when we don't have to keep track of a cast of thousands, right?
+The Sticks has a small number of characters.  It's easier to to tell the stories when we don't have to keep track of a cast of thousands, right?
 
 ## Milicent McGillicutty
 
