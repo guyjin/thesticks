@@ -1,6 +1,7 @@
 ---
+layout: content
+title: The Sticks
 ---
-#The Sticks
 
 So, the thing you need to understand about all of this is that this never started out to be a thing.  Really.  Honest.  Would I lie to you?
 
@@ -37,5 +38,5 @@ The Sticks exists without a fixed time frame.  Some stories happen in the past, 
 
 ##Who's who
 
-There are a lot of people living in The Sticks.
+There are a lot of [people](cast/) living in The Sticks.
 
